@@ -1,1 +1,14 @@
-
+{
+    "require": {
+        "beberlei/azure-blob-storage": "^1.0",
+        "doctrine/dbal": "^4.2",
+        "hybridauth/hybridauth": "^3.11",
+        "kodus/mail": "^1.1",
+        "mpdf/mpdf": "^6.1",
+        "overtrue/easy-sms": "^3.0",
+        "payum/payum": "^0.7.3"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
